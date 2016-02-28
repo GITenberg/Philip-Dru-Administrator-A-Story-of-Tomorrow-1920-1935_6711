@@ -1,0 +1,24 @@
+_repo: Philip-Dru-Administrator-A-Story-of-Tomorrow-1920-1935_6711
+creator:
+  author:
+    agent_name: House, Edward Mandell
+    alias: House, Colonel
+    birthdate: 1858
+    deathdate: 1938
+    gutenberg_agent_id: '2170'
+    url: http://www.gutenberg.org/2009/agents/2170
+    wikipedia: http://en.wikipedia.org/wiki/Edward_M._House
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6711'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utopias'
+- !lcc 'HX'
+title: 'Philip Dru: Administrator; A Story of Tomorrow, 1920-1935'
+url: http://www.gutenberg.org/ebooks/6711
